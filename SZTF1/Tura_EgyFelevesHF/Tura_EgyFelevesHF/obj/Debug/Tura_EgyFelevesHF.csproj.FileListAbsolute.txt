@@ -1,0 +1,7 @@
+C:\Users\tothz\Desktop\Tura_EgyFelevesHF\Tura_EgyFelevesHF\bin\Debug\Tura_EgyFelevesHF.exe.config
+C:\Users\tothz\Desktop\Tura_EgyFelevesHF\Tura_EgyFelevesHF\bin\Debug\Tura_EgyFelevesHF.exe
+C:\Users\tothz\Desktop\Tura_EgyFelevesHF\Tura_EgyFelevesHF\bin\Debug\Tura_EgyFelevesHF.pdb
+C:\Users\tothz\Desktop\Tura_EgyFelevesHF\Tura_EgyFelevesHF\obj\Debug\Tura_EgyFelevesHF.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\Tura_EgyFelevesHF\Tura_EgyFelevesHF\obj\Debug\Tura_EgyFelevesHF.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\Tura_EgyFelevesHF\Tura_EgyFelevesHF\obj\Debug\Tura_EgyFelevesHF.exe
+C:\Users\tothz\Desktop\Tura_EgyFelevesHF\Tura_EgyFelevesHF\obj\Debug\Tura_EgyFelevesHF.pdb

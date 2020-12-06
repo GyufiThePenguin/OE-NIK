@@ -1,0 +1,7 @@
+C:\Users\tothz\Desktop\SZTF_HF3\SZTF_HF3\bin\Debug\SZTF_HF3.exe.config
+C:\Users\tothz\Desktop\SZTF_HF3\SZTF_HF3\bin\Debug\SZTF_HF3.exe
+C:\Users\tothz\Desktop\SZTF_HF3\SZTF_HF3\bin\Debug\SZTF_HF3.pdb
+C:\Users\tothz\Desktop\SZTF_HF3\SZTF_HF3\obj\Debug\SZTF_HF3.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\SZTF_HF3\SZTF_HF3\obj\Debug\SZTF_HF3.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\SZTF_HF3\SZTF_HF3\obj\Debug\SZTF_HF3.exe
+C:\Users\tothz\Desktop\SZTF_HF3\SZTF_HF3\obj\Debug\SZTF_HF3.pdb

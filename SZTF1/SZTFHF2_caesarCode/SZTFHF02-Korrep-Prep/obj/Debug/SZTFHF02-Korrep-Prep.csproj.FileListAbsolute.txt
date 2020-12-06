@@ -1,0 +1,14 @@
+C:\Users\tothz\Desktop\SZTFHF02-Korrep-Prep\SZTFHF02-Korrep-Prep\bin\Debug\SZTFHF02-Korrep-Prep.exe.config
+C:\Users\tothz\Desktop\SZTFHF02-Korrep-Prep\SZTFHF02-Korrep-Prep\bin\Debug\SZTFHF02-Korrep-Prep.exe
+C:\Users\tothz\Desktop\SZTFHF02-Korrep-Prep\SZTFHF02-Korrep-Prep\bin\Debug\SZTFHF02-Korrep-Prep.pdb
+C:\Users\tothz\Desktop\SZTFHF02-Korrep-Prep\SZTFHF02-Korrep-Prep\obj\Debug\SZTFHF02-Korrep-Prep.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\SZTFHF02-Korrep-Prep\SZTFHF02-Korrep-Prep\obj\Debug\SZTFHF02-Korrep-Prep.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\SZTFHF02-Korrep-Prep\SZTFHF02-Korrep-Prep\obj\Debug\SZTFHF02-Korrep-Prep.exe
+C:\Users\tothz\Desktop\SZTFHF02-Korrep-Prep\SZTFHF02-Korrep-Prep\obj\Debug\SZTFHF02-Korrep-Prep.pdb
+D:\Fájlok\github\OE-NIK\SZTF1\SZTFHF2_caesarCode\SZTFHF02-Korrep-Prep\bin\Debug\SZTFHF02-Korrep-Prep.exe.config
+D:\Fájlok\github\OE-NIK\SZTF1\SZTFHF2_caesarCode\SZTFHF02-Korrep-Prep\bin\Debug\SZTFHF02-Korrep-Prep.exe
+D:\Fájlok\github\OE-NIK\SZTF1\SZTFHF2_caesarCode\SZTFHF02-Korrep-Prep\bin\Debug\SZTFHF02-Korrep-Prep.pdb
+D:\Fájlok\github\OE-NIK\SZTF1\SZTFHF2_caesarCode\SZTFHF02-Korrep-Prep\obj\Debug\SZTFHF02-Korrep-Prep.csprojAssemblyReference.cache
+D:\Fájlok\github\OE-NIK\SZTF1\SZTFHF2_caesarCode\SZTFHF02-Korrep-Prep\obj\Debug\SZTFHF02-Korrep-Prep.csproj.CoreCompileInputs.cache
+D:\Fájlok\github\OE-NIK\SZTF1\SZTFHF2_caesarCode\SZTFHF02-Korrep-Prep\obj\Debug\SZTFHF02-Korrep-Prep.exe
+D:\Fájlok\github\OE-NIK\SZTF1\SZTFHF2_caesarCode\SZTFHF02-Korrep-Prep\obj\Debug\SZTFHF02-Korrep-Prep.pdb
